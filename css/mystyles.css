@@ -1,0 +1,55 @@
+table{
+    border: 1px solid red;
+    margin-left: 20px;
+    margin-right: 30px;
+    box-shadow: 5px 5px 30px #454545;
+    border-radius: 20px;
+
+}
+
+
+/* button {
+    width: 20%;
+    padding: 20px 40px;
+    background-color:#a5a5a5;
+    color: red;
+    font-size: 24px;
+    font-weight: bold;
+    border: none;
+    border-radius: 25px; */
+
+}  */
+
+
+.myText
+{
+font-family:Verdana, Geneva, Tahoma, sans-serif;
+font-size:50px;
+text-decoration:none;
+font-style: italic;
+font-weight:bold;
+color:red;
+}
+.login-div{
+font-family:Impact;
+font-size:30px;
+font-weight:bold;
+margin: 20px;
+position:absolute;
+left:250px; 
+top:300px;  
+
+}
+.sign-div{
+font-family:Impact;
+font-size:30px;
+font-weight:bold;
+margin: 20px;
+position:absolute;
+left:700px; 
+top:300px;  
+
+}
+.cart-content{
+    position: absolute;
+}
